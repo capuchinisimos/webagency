@@ -1,2 +1,2 @@
 # webagency
-Student project PSD to HTML, CSS
+Student's project about convert PSD to HTML, CSS
